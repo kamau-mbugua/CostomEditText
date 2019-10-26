@@ -1,0 +1,1 @@
+The CustomEditText app demonstrates how to extend EditText to make a custom text-editing view. The custom view includes a clear (X) button for clearing text. After the custom view is created, you can use multiple versions of it in layouts, applying different EditText attributes as needed.
